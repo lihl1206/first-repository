@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void getAsynHttp(){
         String string = "String";
+
     }
 }
 
